@@ -1,0 +1,22 @@
+{
+  "name": "traffic-buddy",
+  "version": "0.0.1",
+  "description": "Traffic managment system",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhatrichit10-ux/tbuddy.git"
+  },
+  "keywords": [
+    "traffic"
+  ],
+  "author": "Prof2807 , bhatrichit10-ux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhatrichit10-ux/tbuddy/issues"
+  },
+  "homepage": "https://github.com/bhatrichit10-ux/tbuddy#readme"
+}
