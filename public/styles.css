@@ -1,5 +1,7 @@
 :root {
-    --primary-color:
+    --primary-color: hsl(0 0 10)
+    --dark-color: hsl(0 0 5)
+    --ligth-color: hsl(0 0 15)
 }
 
 * {
@@ -8,5 +10,6 @@
 }
 
 .navbar {
-    background: #000;
+    background: var(--primary-color);
+    height: 6vh;
 }
