@@ -1,0 +1,12 @@
+:root {
+    --primary-color:
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background: #000;
+}
