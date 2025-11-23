@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/bhatrichit10-ux/tbuddy/issues"
   },
-  "homepage": "https://github.com/bhatrichit10-ux/tbuddy#readme"
+  "homepage": "https://github.com/bhatrichit10-ux/tbuddy#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
 }
