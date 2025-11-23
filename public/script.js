@@ -1,5 +1,3 @@
-import maplibregl from 'maplibre-gl';
-import 'maplibre-gl/dist/maplibre-gl.css';
 
 const map = new maplibregl.Map({
     container: 'map', // container id
