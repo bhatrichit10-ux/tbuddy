@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/bhatrichit10-ux/tbuddy#readme",
   "dependencies": {
-    "dotenv": "^17.2.3"
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.11"
   }
 }
